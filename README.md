@@ -25,3 +25,4 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 - An interactive Tableau dashboard showcasing key metrics and trends in Seattle's Airbnb market.
 - Actionable insights for hosts to optimize their listings and for guests to make informed decisions.
 
+![Seattle Airbnb Dashboard](./Project1/SeattleAirbnbDashboard.png)
