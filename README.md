@@ -12,21 +12,6 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
-**DataSource**: [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle)
-
-**Data Overview**: This dataset part of the Airbnb Inside Initative, details the listing activity of homestays in Seattle, WA.  It includes comprehensive information on listings, such as full descriptions and average review scores, as well as reviews with unique IDs.
-
-**Project Objectives**:
-
-- Market Analysis: Examine the distribution of Airbnb listings across different neighborhoods in Seattle.
-- Pricing Strategy: Analyze pricing trends to identify factors influencing rental prices.
-- Review Insights: Assess review scores and sentiments to understand guest satisfaction.
-
-**Expected Outcomes**:
-
-- An interactive Tableau dashboard showcasing key metrics and trends in Seattle's Airbnb market.
-- Actionable insights for hosts to optimize their listings and for guests to make informed decisions.
-
 ![Seattle Airbnb Dashboard](./Project1/SeattleAirbnbDashboard.png)
 
 ### Project 2: New Year Resolution Tweets: Social Media Analysis
@@ -38,4 +23,7 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/RoadAccidentintheUKSafetyAnalysis/RoadAccident_Dashboard)
 ![Road Accident Dashboard](./Project3/RoadAccidentDashboard.png)
 
-```
+### Project 4: E-Commerce Dahboard | YTD Sales Analysis
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/E-CommerceDashboardYTDSalesAnalysis/E-CommerceDashboardYTDSalesAnalysis)
+![E-Commerce Dashboard](./Project4/EcommerceDashboard.png)
