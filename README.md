@@ -9,6 +9,9 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
     - [Project 1: Airbnbs in Seattle: Rental Market Analysis](#project-1-airbnbs-in-seattle-rental-market-analysis)
     - [Project 2: New Year Resolution Tweets: Social Media Analysis](#project-2-new-year-resolution-tweets-social-media-analysis)
     - [Project 3: Road Accident in the UK: Safety Analysis](#project-3-road-accident-in-the-uk-safety-analysis)
+    - [Project 4: E-Commerce Dahboard | YTD Sales Analysis](#project-4-e-commerce-dahboard--ytd-sales-analysis)
+    - [Project 5: Super Store Sales Dashboard | Retail Analysis](#project-5-super-store-sales-dashboard--retail-analysis)
+    - [Project 6: Credit Card Complaints | Customer Service Analysis](#project-6-credit-card-complaints--customer-service-analysis)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -27,3 +30,13 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/E-CommerceDashboardYTDSalesAnalysis/E-CommerceDashboardYTDSalesAnalysis)
 ![E-Commerce Dashboard](./Project4/EcommerceDashboard.png)
+
+### Project 5: Super Store Sales Dashboard | Retail Analysis
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/SuperStoreSalesDashboardRetailAnalysis_17377480817770/2012SpringSuperStoreSalesDashboard)
+![Super Store Sales Dashboard](./Project5/2012SpringSportStoreSalesDashboard.png)
+
+### Project 6: Credit Card Complaints | Customer Service Analysis
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/CreditCardComplaintsCustomerServiceAnalysis/CreditCardComplaintsCustomerServiceAnalysis)
+![Credit Card Complaints Dashboard](./Project6/CreditCardComplaints.png)
