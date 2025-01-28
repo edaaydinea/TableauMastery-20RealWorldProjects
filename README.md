@@ -12,6 +12,7 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
     - [Project 4: E-Commerce Dahboard | YTD Sales Analysis](#project-4-e-commerce-dahboard--ytd-sales-analysis)
     - [Project 5: Super Store Sales Dashboard | Retail Analysis](#project-5-super-store-sales-dashboard--retail-analysis)
     - [Project 6: Credit Card Complaints | Customer Service Analysis](#project-6-credit-card-complaints--customer-service-analysis)
+    - [Project 7: Data Science Career Dashboard | Job Market Trends](#project-7-data-science-career-dashboard--job-market-trends)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -40,3 +41,8 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/CreditCardComplaintsCustomerServiceAnalysis/CreditCardComplaintsCustomerServiceAnalysis)
 ![Credit Card Complaints Dashboard](./Project6/CreditCardComplaints.png)
+
+### Project 7: Data Science Career Dashboard | Job Market Trends
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/DataScienceCareerDashboard_17380223719080/DataScienceCareerDashboard)
+![Data Science Career Dashboard](./Project7/DataScienceCareerDashboard.png)
