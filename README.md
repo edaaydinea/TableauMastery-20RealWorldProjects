@@ -46,3 +46,4 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/DataScienceCareerDashboard_17380223719080/DataScienceCareerDashboard)
 ![Data Science Career Dashboard](./Project7/DataScienceCareerDashboard.png)
+```
