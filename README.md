@@ -16,6 +16,7 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
     - [Project 8: Amazon Prime Video Dashboard | Streaming Analysishttps://public.tableau.com/app/profile/edaaydin/viz/AmazonPrimeVideoDashboardStreamingInsights/Dashboard1](#project-8-amazon-prime-video-dashboard--streaming-analysishttpspublictableaucomappprofileedaaydinvizamazonprimevideodashboardstreaminginsightsdashboard1)
     - [Project 9: Traffic Collision in Seattle: Safety and Traffic Analysis](#project-9-traffic-collision-in-seattle-safety-and-traffic-analysis)
     - [Project 10: Video Game Sales Dashboard | Gaming Analysis](#project-10-video-game-sales-dashboard--gaming-analysis)
+    - [Project 11: IMDB Movie Review Dataset Dashboard | Film Insights](#project-11-imdb-movie-review-dataset-dashboard--film-insights)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -64,3 +65,8 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/VideoGameSalesDashboardGamingMarket/Dashboard2)
 ![Video Game Sales Dashboard](./Project10/VideoGameSalesDashboard.png)
+
+### Project 11: IMDB Movie Review Dataset Dashboard | Film Insights
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/IMDBMovieReviewDatasetDashboard/IMDBMovieReviewDatasetDashboard)
+![IMDB Movie Review Dashboard](./Project11/IMDB%20Movie%20Review%20Dataset%20Dashboard.png)
