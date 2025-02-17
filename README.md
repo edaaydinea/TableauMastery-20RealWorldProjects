@@ -4,22 +4,23 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 ## Table of Contents
 
-*   [TableauMastery-20RealWorldProjects](#tableaumastery-20realworldprojects)
-    *   [Table of Contents](#table-of-contents)
-        *   [Project 1: Airbnbs in Seattle: Rental Market Analysis](#project-1-airbnbs-in-seattle-rental-market-analysis)
-        *   [Project 2: New Year Resolution Tweets: Social Media Analysis](#project-2-new-year-resolution-tweets-social-media-analysis)
-        *   [Project 3: Road Accident in the UK: Safety Analysis](#project-3-road-accident-in-the-uk-safety-analysis)
-        *   [Project 4: E-Commerce Dahboard | YTD Sales Analysis](#project-4-e-commerce-dahboard--ytd-sales-analysis)
-        *   [Project 5: Super Store Sales Dashboard | Retail Analysis](#project-5-super-store-sales-dashboard--retail-analysis)
-        *   [Project 6: Credit Card Complaints | Customer Service Analysis](#project-6-credit-card-complaints--customer-service-analysis)
-        *   [Project 7: Data Science Career Dashboard | Job Market Trends](#project-7-data-science-career-dashboard--job-market-trends)
-        *   [Project 8: Amazon Prime Video Dashboard | Streaming Analysis](#project-8-amazon-prime-video-dashboard--streaming-analysis)
-        *   [Project 9: Traffic Collision in Seattle: Safety and Traffic Analysis](#project-9-traffic-collision-in-seattle-safety-and-traffic-analysis)
-        *   [Project 10: Video Game Sales Dashboard | Gaming Analysis](#project-10-video-game-sales-dashboard--gaming-analysis)
-        *   [Project 11: IMDB Movie Review Dataset Dashboard | Film Insights](#project-11-imdb-movie-review-dataset-dashboard--film-insights)
-        *   [Project 12: Goodreads.com Dataset Dashboard | Book Analysis](#project-12-goodreadscom-dataset-dashboard--book-analysis)
-        *   [Project 13: Friends Sitcom Dashboard | TV Series Data Analysis](#project-13-friends-sitcom-dashboard--tv-series-data-analysis)
-        *   [Project 14: Am](#project-14-am)
+- [TableauMastery-20RealWorldProjects](#tableaumastery-20realworldprojects)
+  - [Table of Contents](#table-of-contents)
+    - [Project 1: Airbnbs in Seattle: Rental Market Analysis](#project-1-airbnbs-in-seattle-rental-market-analysis)
+    - [Project 2: New Year Resolution Tweets: Social Media Analysis](#project-2-new-year-resolution-tweets-social-media-analysis)
+    - [Project 3: Road Accident in the UK: Safety Analysis](#project-3-road-accident-in-the-uk-safety-analysis)
+    - [Project 4: E-Commerce Dahboard | YTD Sales Analysis](#project-4-e-commerce-dahboard--ytd-sales-analysis)
+    - [Project 5: Super Store Sales Dashboard | Retail Analysis](#project-5-super-store-sales-dashboard--retail-analysis)
+    - [Project 6: Credit Card Complaints | Customer Service Analysis](#project-6-credit-card-complaints--customer-service-analysis)
+    - [Project 7: Data Science Career Dashboard | Job Market Trends](#project-7-data-science-career-dashboard--job-market-trends)
+    - [Project 8: Amazon Prime Video Dashboard | Streaming Analysis](#project-8-amazon-prime-video-dashboard--streaming-analysis)
+    - [Project 9: Traffic Collision in Seattle: Safety and Traffic Analysis](#project-9-traffic-collision-in-seattle-safety-and-traffic-analysis)
+    - [Project 10: Video Game Sales Dashboard | Gaming Analysis](#project-10-video-game-sales-dashboard--gaming-analysis)
+    - [Project 11: IMDB Movie Review Dataset Dashboard | Film Insights](#project-11-imdb-movie-review-dataset-dashboard--film-insights)
+    - [Project 12: Goodreads.com Dataset Dashboard | Book Analysis](#project-12-goodreadscom-dataset-dashboard--book-analysis)
+    - [Project 13: Friends Sitcom Dashboard | TV Series Data Analysis](#project-13-friends-sitcom-dashboard--tv-series-data-analysis)
+    - [Project 14: Amazon Sales Dashboard | Online Retail Insights](#project-14-amazon-sales-dashboard--online-retail-insights)
+    - [Project 15: Hollywood's Most Profitable Stories Dashboard | Film Analysis](#project-15-hollywoods-most-profitable-stories-dashboard--film-analysis)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -85,5 +86,11 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 ![Friends Sitcom Dashboard](./Project13/FriendsSitcomDashboard.png)
 
 ### Project 14: Amazon Sales Dashboard | Online Retail Insights
+
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/AmazonSalesDashboardOnlineRetailInsights/AmazonSalesDashboard)
 ![Amazon Sales Dashboard](./Project14/AmazonSalesDashboard.png)
+
+### Project 15: Hollywood's Most Profitable Stories Dashboard | Film Analysis
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/HollywoodsMostProfitableStoriesDashboardFilmAnalysis/HollywoodsMostProfitableStoriesDashboard)
+![Hollywood's Most Profitable Stories Dashboard](./Project15/Hollywood's%20Most%20Profitable%20Stories%20Dashboard.png)
