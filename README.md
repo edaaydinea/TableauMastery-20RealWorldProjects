@@ -22,6 +22,7 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
     - [Project 14: Amazon Sales Dashboard | Online Retail Insights](#project-14-amazon-sales-dashboard--online-retail-insights)
     - [Project 15: Hollywood's Most Profitable Stories Dashboard | Film Analysis](#project-15-hollywoods-most-profitable-stories-dashboard--film-analysis)
     - [Project 16: Netflix Dashboard | Streaming Service Performance](#project-16-netflix-dashboard--streaming-service-performance)
+    - [Project 17: Trip Advisor Travel Analysis Dashboard](#project-17-trip-advisor-travel-analysis-dashboard)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -100,3 +101,8 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/NetflixDashboardStreamingServicePerformance/NetflixDashboard)
 ![Netflix Dashboard](./Project16/NetflixDashboard.png)
+
+### Project 17: Trip Advisor Travel Analysis Dashboard
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/TripAdvisorTravelAnalysisDashboard/TripAdvisorTravelAnalysisDashboard)
+![Trip Advisor Travel Analysis Dashboard](./Project17/TripAdvisorTravelAnalysisDashboard.png)
