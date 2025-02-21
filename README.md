@@ -23,7 +23,8 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
     - [Project 15: Hollywood's Most Profitable Stories Dashboard | Film Analysis](#project-15-hollywoods-most-profitable-stories-dashboard--film-analysis)
     - [Project 16: Netflix Dashboard | Streaming Service Performance](#project-16-netflix-dashboard--streaming-service-performance)
     - [Project 17: Trip Advisor Travel Analysis Dashboard](#project-17-trip-advisor-travel-analysis-dashboard)
-    - [Breaking Bad Dashboard: TV Series Insights](#breaking-bad-dashboard-tv-series-insights)
+    - [Project 18: Breaking Bad Dashboard | TV Series Insights](#project-18-breaking-bad-dashboard--tv-series-insights)
+    - [Project 19: Customer Personality Analysis Dashboard](#project-19-customer-personality-analysis-dashboard)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -108,7 +109,12 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/TripAdvisorTravelAnalysisDashboard/TripAdvisorTravelAnalysisDashboard)
 ![Trip Advisor Travel Analysis Dashboard](./Project17/TripAdvisorTravelAnalysisDashboard.png)
 
-### Breaking Bad Dashboard: TV Series Insights
+### Project 18: Breaking Bad Dashboard | TV Series Insights
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/BreakingBadDashboardTVSeriesInsights/BreakingBadAnalysisDashboard)
 ![Breaking Bad Dashboard](./Project18/BreakingBadAnalysisDashboard.png)
+
+### Project 19: Customer Personality Analysis Dashboard
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/CustomerPersonalityAnalysisDashboard_17401565617490/CustomerPersonalityAnalysisDashboard)
+![Customer Personality Analysis Dashboard](./Project19/CustomerPersonalityAnalysisDashboard.png)
