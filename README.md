@@ -25,6 +25,7 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
     - [Project 17: Trip Advisor Travel Analysis Dashboard](#project-17-trip-advisor-travel-analysis-dashboard)
     - [Project 18: Breaking Bad Dashboard | TV Series Insights](#project-18-breaking-bad-dashboard--tv-series-insights)
     - [Project 19: Customer Personality Analysis Dashboard](#project-19-customer-personality-analysis-dashboard)
+    - [Project 20: Revenue Analysis Dashboard: Business Insights and Trends](#project-20-revenue-analysis-dashboard-business-insights-and-trends)
 
 ### Project 1: Airbnbs in Seattle: Rental Market Analysis
 
@@ -118,3 +119,8 @@ This repository is your ultimate guide to mastering Tableau through 20 real-worl
 
 [Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/CustomerPersonalityAnalysisDashboard_17401565617490/CustomerPersonalityAnalysisDashboard)
 ![Customer Personality Analysis Dashboard](./Project19/CustomerPersonalityAnalysisDashboard.png)
+
+### Project 20: Revenue Analysis Dashboard: Business Insights and Trends
+
+[Tableau Public Link](https://public.tableau.com/app/profile/edaaydin/viz/RevenueAnalysisDashboardBusinessInsightsandTrends/RevenueAnalysisDashboard)
+![Revenue Analysis Dashboard](./Project20/RevenueAnalysisDashboard.png)
